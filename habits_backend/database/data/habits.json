@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Running",
+    "description": "Go running at least 10 min every day",
+    "frequency_id": 1
+  },
+  {
+    "name": "Meditation",
+    "description": "Spend quite time every day",
+    "frequency_id": 1
+  },
+  {
+    "name": "PersonalTime",
+    "description": "Spend 1 hour a week doing something I like",
+    "frequency_id": 2
+  },
+  {
+    "name": "Family",
+    "description": "Do a fun activity with my family every month",
+    "frequency_id": 3
+  },
+  {
+    "name": "Learning",
+    "description": "Spend 1 day a month learning something new",
+    "frequency_id": 3
+  },
+    {
+    "name": "Holiday",
+    "description": "Take a holiday",
+    "frequency_id": 3
+  }
+]

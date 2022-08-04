@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Daily",
+    "repeat": "day",
+    "id": 1
+  },
+  {
+    "name": "Weekly",
+    "repeat": "week",
+    "id": 2
+  },
+  {
+    "name": "Monthly",
+    "repeat": "month",
+    "id": 3
+  }
+]
